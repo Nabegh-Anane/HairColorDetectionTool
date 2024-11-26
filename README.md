@@ -24,11 +24,7 @@ The **Hair Color Detection Tool** is a Python application that analyzes images t
 
 Before running this project, ensure your environment meets the following prerequisites:
 - Python 3.x installed
-- The following Python libraries installed:
-  - OpenCV (`cv2`)
-  - NumPy (`numpy`)
-  - PIL (Pillow)
-- A folder containing images to be analyzed (default: `./images`)
+- The dependencies listed in the `requirements.txt` file
 
 ---
 
@@ -40,9 +36,9 @@ Before running this project, ensure your environment meets the following prerequ
    cd <repository_name>
    ```
 
-2. Install the required dependencies using pip:
+2. Install the required dependencies using the `requirements.txt` file:
    ```bash
-   pip install opencv-python numpy pillow
+   pip install -r requirements.txt
    ```
 
 3. Add your images to a folder named `images` at the project root, or update the path in the `main()` function.
@@ -91,4 +87,3 @@ Before running this project, ensure your environment meets the following prerequ
 
 **Nabegh Anane**  
 Feel free to contribute by submitting suggestions via issues or pull requests. 😊
-

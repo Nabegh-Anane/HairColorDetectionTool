@@ -50,7 +50,7 @@ Before running this project, ensure your environment meets the following prerequ
 1. Place your images in the `./images` folder or update the path in the `main` function.
 2. Run the main script:
    ```bash
-   python script_name.py
+   python detect.py
    ```
 3. The results will be saved in a file named `hair_color_detection_results.json` in the project directory.
 

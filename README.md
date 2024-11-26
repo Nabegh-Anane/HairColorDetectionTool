@@ -32,8 +32,8 @@ Before running this project, ensure your environment meets the following prerequ
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <URL_of_your_repository>
-   cd <repository_name>
+   git clone https://github.com/Nabegh-Anane/HairColorDetectionTool.git
+   cd HairColorDetectionTool
    ```
 
 2. Install the required dependencies using the `requirements.txt` file:
